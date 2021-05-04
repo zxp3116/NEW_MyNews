@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <com.example.new_mynews.TitlebarView
+        android:id="@+id/titlebarView_YouTube"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:background="#FFFFFF"/>
+    <com.pierfrancescosoffritti.androidyoutubeplayer.core.player.views.YouTubePlayerView
+        android:id="@+id/pierfrancescosoffritti"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_below="@+id/titlebarView_YouTube"
+        android:layout_alignParentStart="true"/>
+    <ProgressBar
+        android:id="@+id/progressBar_YouTube"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/pierfrancescosoffritti"
+        android:layout_marginTop="50dp"
+        android:layout_marginStart="80dp"/>
+    <TextView
+        android:id="@+id/textView_YouTube"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="努力加載中，請稍後..."
+        android:layout_below="@+id/pierfrancescosoffritti"
+        android:layout_toEndOf="@+id/progressBar_YouTube"
+        android:layout_marginTop="60dp"
+        android:textSize="20sp"/>
+    <ListView
+        android:id="@+id/listView_YouTube"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFFFFFFF"
+        android:divider="@null"
+        android:visibility="gone"
+        android:layout_below="@+id/pierfrancescosoffritti"
+        android:layout_alignParentStart="true"/>
+</RelativeLayout>
