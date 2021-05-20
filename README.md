@@ -16,10 +16,10 @@
 使用到的第三方類庫：jsoup、legacy-support、pierfrancescosoffritti.androidyoutubeplayer、glide、volley、lifecycle-extensions、navigation-fragment、ExpandableLayout、tagflowlayout、gson
 
 
-![Screenshot_20210520-080937](https://user-images.githubusercontent.com/71322458/118900308-351d6b80-b943-11eb-9e74-12eb3a75d35b.png)
+![Screenshot_20210520-080937](https://user-images.githubusercontent.com/71322458/118900434-87f72300-b943-11eb-8cef-ba6bf829c8ea.png)
 
-![Screenshot_20210520-081042](https://user-images.githubusercontent.com/71322458/118900309-364e9880-b943-11eb-97a8-8f9db11a9bd8.png)
+![Screenshot_20210520-081042](https://user-images.githubusercontent.com/71322458/118900437-89c0e680-b943-11eb-9ae3-6f28359e4ae8.png)
 
-![Screenshot_20210520-081057](https://user-images.githubusercontent.com/71322458/118900312-377fc580-b943-11eb-8bbe-cec4ae90175c.png)
+![Screenshot_20210520-081057](https://user-images.githubusercontent.com/71322458/118900440-8af21380-b943-11eb-9069-d57b5a082e22.png)
 
-![Screenshot_20210520-081106](https://user-images.githubusercontent.com/71322458/118900315-38b0f280-b943-11eb-8416-a3e450a08d6d.png)
+![Screenshot_20210520-081106](https://user-images.githubusercontent.com/71322458/118900444-8c234080-b943-11eb-8676-0a3df0268397.png)
