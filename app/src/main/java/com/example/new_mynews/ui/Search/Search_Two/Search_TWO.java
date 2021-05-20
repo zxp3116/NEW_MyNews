@@ -122,7 +122,7 @@ public class Search_TWO extends Fragment {
         listView_Search_TWO = view.findViewById(R.id.listView_Search_TWO);
         progressBar_Search_TWO = view.findViewById(R.id.progressBar_Search_TWO);
         textView_Search_TWO = view.findViewById(R.id.textView_Search_TWO);
-        API_KEY = "AIzaSyAIRU_kiok7A3LZe6aGJcNZRzXJWWy48cQ";
+        API_KEY = "";
         handler = new Handler(){
             @Override
             public void handleMessage(@NonNull Message msg) {
